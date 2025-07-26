@@ -47,6 +47,9 @@ Item:           Espresso Machine
 Quantity:       1
 Price:          $199.99
 
+<img width="294" height="424" alt="outputreciept gen" src="https://github.com/user-attachments/assets/fa0e3ead-ee2e-4e66-a237-c02124ac22e0" />
+
+
 Subtotal:       $199.99
 Tax (18%):      $36.00
 ---------------------------
