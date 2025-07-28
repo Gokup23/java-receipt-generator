@@ -2,6 +2,9 @@
 
 A simple command-line application written in Java that generates a sales receipt. This project was created as a practice exercise to strengthen fundamental Java programming skills. It takes user input for an item's name, quantity, and price, then calculates the subtotal, tax, and final total, presenting it all in a nicely formatted receipt.
 
+Receipt Generator V2:
+An interactive, multi-item shopping cart application built with Java to demonstrate loops, collections, and conditional logic.
+
 ## Features
 * Accepts user input for item details (name, quantity, price).
 * Accurately calculates subtotal, a fixed tax amount, and the final total.
